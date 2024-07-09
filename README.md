@@ -1,7 +1,7 @@
-# 👋 Welcome to A Product
+# 👾 HackVault
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+Equip yourself with the ultimate arsenal of cybersecurity tools. From vulnerability assessment to cryptography, find everything you need to defend against cyber threats.
 {% endhint %}
 
 ## Overview
@@ -20,12 +20,12 @@ Here are a couple of example overviews from products with really great docs:
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## Get Started
