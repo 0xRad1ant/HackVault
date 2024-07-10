@@ -4,7 +4,8 @@
 
 ## Network Security
 
-* [Nmap](network-security/nmap.md)
+* [Nmap](network-security/nmap/README.md)
+  * [Nmap Live Host Discovery](network-security/nmap/nmap-live-host-discovery.md)
 
 ## Fundamentals
 
