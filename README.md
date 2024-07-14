@@ -4,6 +4,8 @@
 Equip yourself with the ultimate arsenal of cybersecurity tools. From vulnerability assessment to cryptography, find everything you need to defend against cyber threats.
 {% endhint %}
 
+![GitHub last commit](https://img.shields.io/github/last-commit/0xRad1ant/HackVault)
+
 ## Overview
 
 Here are a couple of example overviews from products with really great docs:
